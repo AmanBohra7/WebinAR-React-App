@@ -18,7 +18,8 @@ let data =
     "empty":"true"
 };
 
-const outputFile = "F:\\React-AR\\React-APP\\react_ar_app\\src\\components\\response.json";
+// const outputFile = "F:\\React-AR\\React-APP\\react_ar_app\\src\\components\\response.json";
+const outputFile = "..\\src\\components\\response.json"
 
 app.get("/test", (req , res) => {
     console.log("/test called! Android");
