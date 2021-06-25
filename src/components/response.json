@@ -1,0 +1,48 @@
+{
+	"NavBar": [
+		{
+			"tagName": "NavBar",
+			"style": "#e1b12c"
+		}
+	],
+	"body": [
+		{
+			"tagName": "div",
+			"content": "",
+			"className": "",
+			"children": [
+				{
+					"tagName": "h1",
+					"content": "This is heading",
+					"className": "row p-5 justify-content-around",
+					"children": []
+				},
+				{
+					"tagName": "div",
+					"content": "",
+					"className": "row p-5 justify-content-around",
+					"children": [
+						{
+							"tagName": "Card",
+							"content": "",
+							"className": "col-4 my-div",
+							"children": []
+						},
+						{
+							"tagName": "Card",
+							"content": "",
+							"className": "col-4 my-div",
+							"children": []
+						}
+					]
+				}
+			]
+		}
+	],
+	"footer": [
+		{
+			"tagName": "footer",
+			"style": "#40739e"
+		}
+	]
+}
